@@ -11,20 +11,20 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+I have always had a great interest in artificial intelligence. In my recent free time, out of interest, I like to use the open-source software Stable Diffusion to train AI painting models. I search online for paintings of different styles to train a model that is uniquely mine. At the same time, I am also trying to learn AI programming. Since Stable Diffusion is open-source software, it gives me the opportunity to browse through the underlying code.
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+1. Audience & context first
+  How to quickly define who it’s for, what they need, and where it’ll be used so I choose the right chart and cut non-essential details.
 
-1. List item #1
-2. List item #2
-3. List item #3
+2. One-line takeaway writing
+  Turning insights into a clear subtitle that states the point (not just the data) so viewers grasp the message in seconds.
 
-or...
+3. Focus & visual hierarchy
+  Using color, weight, size, and a few well-placed annotations to create an entry point and reading order, instead of a “look everywhere” graphic.
 
-- List item #1
-- List item #2
-- List item #3
+4. Perceptual color & binning
+  Building palettes and legend breaks that people can actually read (single-hue ramps, meaningful thresholds) to avoid the “overwhelming rainbow” and make differences pop.
 
 # Portfolio
 
