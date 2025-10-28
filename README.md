@@ -12,7 +12,7 @@ This is my public portfolio for Telling Stories with Data at CMU!  Here's where 
 
 # About me
 Hello! My name is JingBo Lin, from China. I'm currently attending MISM 16 month program in CMU.
-## My interests:
+### My interests:
 I have always had a great interest in artificial intelligence. In my recent free time, out of interest, I like to use the open-source software Stable Diffusion to train AI painting models. I search online for paintings of different styles to train a model that is uniquely mine. At the same time, I am also trying to learn AI programming. Since Stable Diffusion is open-source software, it gives me the opportunity to browse through the underlying code.
 
 # What I hope to learn
