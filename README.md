@@ -29,22 +29,23 @@ I have always had a great interest in artificial intelligence. In my recent free
   Building palettes and legend breaks that people can actually read (single-hue ramps, meaningful thresholds) to avoid the “overwhelming rainbow” and make differences pop.
 
 # Portfolio
-  ### - Week #2 assignment:
+### Future Assignments:
+  - Week #2 assignment:
         Data visualization #1 (due 11:59 p.m., Mon 11/03)
   
-  ### - Week #3 assignment:
+  - Week #3 assignment:
         Assignment 3&4: Critique by Design (due 11:59 p.m., Thu 11/13)
   
-  ### - Week #4 assignment:
+  - Week #4 assignment:
         Final Project, part one (due 11:59 p.m., Mon 11/17)
 
-  ### - Week #5 assignment:
+  - Week #5 assignment:
         Final Project, part two (due 11:59 p.m., Tue 11/25)
 
-  ### - Week #6 assignment:
+  - Week #6 assignment:
         Final Project, part three (due 11:59 p.m., Fri 12/05)
 
-  ### - Week #7 assignment:
+  - Week #7 assignment:
         Final presentations on Tuesday 12/02 and Thursday 12/04 during class.
   
 # Examples
