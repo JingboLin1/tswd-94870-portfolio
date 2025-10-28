@@ -12,7 +12,7 @@ This is my public portfolio for Telling Stories with Data at CMU!  Here's where 
 
 # About me
 Hello! My name is JingBo Lin, from China. I'm currently attending MISM 16 month program in CMU.
-My interests:
+## My interests:
 I have always had a great interest in artificial intelligence. In my recent free time, out of interest, I like to use the open-source software Stable Diffusion to train AI painting models. I search online for paintings of different styles to train a model that is uniquely mine. At the same time, I am also trying to learn AI programming. Since Stable Diffusion is open-source software, it gives me the opportunity to browse through the underlying code.
 
 # What I hope to learn
@@ -29,17 +29,23 @@ I have always had a great interest in artificial intelligence. In my recent free
   Building palettes and legend breaks that people can actually read (single-hue ramps, meaningful thresholds) to avoid the “overwhelming rainbow” and make differences pop.
 
 # Portfolio
-  - Week #2 assignment: Data visualization #1 (due 11:59 p.m., Mon 11/03)
+  ###- Week #2 assignment:
+      Data visualization #1 (due 11:59 p.m., Mon 11/03)
   
-  - Week #3 assignment: Assignment 3&4: Critique by Design (due 11:59 p.m., Thu 11/13)
+  ###- Week #3 assignment:
+      Assignment 3&4: Critique by Design (due 11:59 p.m., Thu 11/13)
   
-  - Week #4 assignment: Final Project, part one (due 11:59 p.m., Mon 11/17)
+  ###- Week #4 assignment:
+      Final Project, part one (due 11:59 p.m., Mon 11/17)
 
-  - Week #5 assignment: Final Project, part two (due 11:59 p.m., Tue 11/25)
+  ###- Week #5 assignment:
+      Final Project, part two (due 11:59 p.m., Tue 11/25)
 
-  - Week #6 assignment: Final Project, part three (due 11:59 p.m., Fri 12/05)
+  ###- Week #6 assignment:
+      Final Project, part three (due 11:59 p.m., Fri 12/05)
 
-  - Week #7 assignment: Final presentations on Tuesday 12/02 and Thursday 12/04 during class.
+  ###- Week #7 assignment:
+      Final presentations on Tuesday 12/02 and Thursday 12/04 during class.
   
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
