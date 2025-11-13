@@ -11,6 +11,7 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 _Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
 
 ## Step two: the critique
+<img src="DOG-BITES-NYC-RAW.WEBP" width="100"/>
 _Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
 
 ## Step three: Sketch a solution
