@@ -25,7 +25,7 @@ _Don't forget to complete the Google Form found on the assignment page.  You can
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script> 
-<br>
+<br><br>
 _First, I downloaded the New York City ZIP codes from the web and joined that file with the dog-bites dataset, so the map only shows New York City. This helps keep the viewer’s attention on NYC instead of being distracted by other areas. Then I used a blue color gradient, from dark to light, to highlight which parts of the city have more frequent dog-bite incidents._
 
 ## Step four: Test the solution
