@@ -54,10 +54,18 @@ _Next, I created a line graph over time to show when dog bite incidents occurred
 _Finally, I also built a heatmap. It serves a similar purpose as the line graph—both show the number of dog bite incidents by month. I think each chart is clear in its own way and does a good job highlighting which months have the most bites. That’s why I made both versions and plan to ask my classmates on Tuesday which one they prefer._
 
 ## Step four: Test the solution
-_What Worked?_
+_What Worked?_ 
+- Line chart and heatmap clearly show a summer peak.
+- Map quickly highlights which ZIP codes stand out.
+- All three charts use the same blue color scheme, which makes them look clean and consistent.
 _What didn't work?_
+- The line chart is a bit noisy;
+- it’s hard to read exact trends across years.
 _What questions came up?_
+- Which areas stay high across multiple years?
+- Are certain ZIP codes high every year, or do they only spike in specific years?
 _What new inspiration arose?_
+- Build one interactive dashboard that links all three views.
 
 ## Step five: build the solution
 <div class='tableauPlaceholder' id='viz1763082158728' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book2_17630655931910&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Book2_17630655931910&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book2_17630655931910&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /><param name='filter' value='publish=yes' /></object></div>                
