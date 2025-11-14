@@ -58,12 +58,15 @@ _Finally, I also built a heatmap. It serves a similar purpose as the line graphâ
 - Line chart and heatmap clearly show a summer peak.
 - Map quickly highlights which ZIP codes stand out.
 - All three charts use the same blue color scheme, which makes them look clean and consistent.
+
 **What didn't work?**
 - The line chart is a bit noisy;
 - itâ€™s hard to read exact trends across years.
+
 **What questions came up?**
 - Which areas stay high across multiple years?
 - Are certain ZIP codes high every year, or do they only spike in specific years?
+
 **What new inspiration arose?**
 - Build one interactive dashboard that links all three views.
 
