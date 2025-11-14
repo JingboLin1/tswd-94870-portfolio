@@ -66,7 +66,7 @@ _What patterns in the feedback emerge?  What did you learn from the feedback?  B
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>   
-
+/
 
 _Here is my final design. This final dashboard has several strengths. First, it brings all the key views onto a single screen, so readers can quickly see when, where, and which kinds of dogs are involved in bite incidents without jumping between multiple charts. The layout follows a natural flow: the total number of bites and trend in the top left provide overall context; the heatmap in the center answers when bites occur; the map on the right shows where they happen; and the charts at the bottom and left explain who the dogs are in terms of gender, age, and whether they are fixed. At the same time, they can click on the charts labeled “Click to Filter.” For example, if a reader is interested in the data for January 2017, they can find the January 2017 cell in the heatmap and click it; then every chart will update to show only the data for January 2017, including where the incidents occurred, the ages of the dogs, the % of dogs not fixed, the total number of bites, and the dogs’ genders._
 
