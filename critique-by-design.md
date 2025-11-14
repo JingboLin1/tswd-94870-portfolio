@@ -54,17 +54,17 @@ _Next, I created a line graph over time to show when dog bite incidents occurred
 _Finally, I also built a heatmap. It serves a similar purpose as the line graph—both show the number of dog bite incidents by month. I think each chart is clear in its own way and does a good job highlighting which months have the most bites. That’s why I made both versions and plan to ask my classmates on Tuesday which one they prefer._
 
 ## Step four: Test the solution
-_What Worked?_ 
+What Worked? 
 - Line chart and heatmap clearly show a summer peak.
 - Map quickly highlights which ZIP codes stand out.
 - All three charts use the same blue color scheme, which makes them look clean and consistent.
-_What didn't work?_
+What didn't work?
 - The line chart is a bit noisy;
 - it’s hard to read exact trends across years.
-_What questions came up?_
+What questions came up?
 - Which areas stay high across multiple years?
 - Are certain ZIP codes high every year, or do they only spike in specific years?
-_What new inspiration arose?_
+What new inspiration arose?
 - Build one interactive dashboard that links all three views.
 
 ## Step five: build the solution
