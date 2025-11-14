@@ -53,36 +53,12 @@ _Next, I created a line graph over time to show when dog bite incidents occurred
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 _Finally, I also built a heatmap. It serves a similar purpose as the line graph—both show the number of dog bite incidents by month. I think each chart is clear in its own way and does a good job highlighting which months have the most bites. That’s why I made both versions and plan to ask my classmates on Tuesday which one they prefer._
+
 ## Step four: Test the solution
-
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
-
-Questions to ask (modify these for your own interviews): 
-
-- Can you tell me what you think this is?
-
-- Can you describe to me what this is telling you?
-
-- Is there anything you find surprising or confusing?
-
-- Who do you think is the intended audience for this?
-
-- Is there anything you would change or do differently?
-
-Results: 
-
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
-
-
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
-
-Synthesis: 
-
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+What Worked?
+What didn't work?
+What questions came up?
+What new inspiration arose?
 
 ## Step five: build the solution
 <div class='tableauPlaceholder' id='viz1763082158728' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book2_17630655931910&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Book2_17630655931910&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book2_17630655931910&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /><param name='filter' value='publish=yes' /></object></div>                
@@ -100,8 +76,7 @@ _What patterns in the feedback emerge?  What did you learn from the feedback?  B
 _Here is my final design. This final dashboard has several strengths. First, it brings all the key views onto a single screen, so readers can quickly see when, where, and which kinds of dogs are involved in bite incidents without jumping between multiple charts. The layout follows a natural flow: the total number of bites and trend in the top left provide overall context; the heatmap in the center answers when bites occur; the map on the right shows where they happen; and the charts at the bottom and left explain who the dogs are in terms of gender, age, and whether they are fixed. At the same time, they can click on the charts labeled “Click to Filter.” For example, if a reader is interested in the data for January 2017, they can find the January 2017 cell in the heatmap and click it; then every chart will update to show only the data for January 2017, including where the incidents occurred, the ages of the dogs, the % of dogs not fixed, the total number of bites, and the dogs’ genders._
 
 ## References
-_List any references you used here._
+_Andy Kriebel. (2023, May 31). Dogs of New York: Where are you most likely to get bitten? [Video]. YouTube. https://www.youtube.com/watch?v=c9wUuXX972Q_
+_Guo, A. (2021, December 17). Dog breeds data visualization. Information Visualization. https://studentwork.prattsi.org/infovis/visualization/dog-breeds-data-visualization/_
 
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
 
