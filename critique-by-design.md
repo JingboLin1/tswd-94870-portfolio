@@ -52,7 +52,7 @@ _Next, I created a line graph over time to show when dog bite incidents occurred
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
-_ _
+_Finally, I also built a heatmap. It serves a similar purpose as the line graph—both show the number of dog bite incidents by month. I think each chart is clear in its own way and does a good job highlighting which months have the most bites. That’s why I made both versions and plan to ask my classmates on Tuesday which one they prefer._
 ## Step four: Test the solution
 
 _Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
