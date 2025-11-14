@@ -3,9 +3,7 @@
 # Dog Bites in New York City
 
 
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
-
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
+This project follows how I reworked a visualization about dog bites in New York City. I began with an online map that plotted dog distribution and bite incidents together, but it was missing key pieces: there was no sense of bite rate, no legend for the blue points, and not much detail by ZIP code. After watching a MakeoverMonday tutorial, I went back to Tableau and tried a few different angles—a filled map showing where people were bitten, a line chart to track bites over time, and a month-by-year heatmap to make the seasonal pattern stand out. The final dashboard pulls those ideas into one place so you can quickly see when bites peak, which neighborhoods show up the most, and what kinds of dogs are involved by gender, age, and whether they’ve been fixed.
 
 ## Step one: the visualization
 <img src="DOG-BITES-NYC-RAW.webp" width="700"/>
