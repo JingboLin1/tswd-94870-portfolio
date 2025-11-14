@@ -77,6 +77,7 @@ _Here is my final design. This final dashboard has several strengths. First, it 
 
 ## References
 _Andy Kriebel. (2023, May 31). Dogs of New York: Where are you most likely to get bitten? [Video]. YouTube. https://www.youtube.com/watch?v=c9wUuXX972Q_
+<br><br>
 _Guo, A. (2021, December 17). Dog breeds data visualization. Information Visualization. https://studentwork.prattsi.org/infovis/visualization/dog-breeds-data-visualization/_
 
 
