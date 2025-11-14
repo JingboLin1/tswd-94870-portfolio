@@ -10,9 +10,9 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 ## Step one: the visualization
 <img src="DOG-BITES-NYC-RAW.webp" width="700"/>
 > Photo by <a href="https://studentwork.prattsi.org/infovis/author/aguo13/">Aichen Guo</a> on <a href="https://studentwork.prattsi.org/infovis/visualization/dog-breeds-data-visualization/">prattsi</a>
-<br><br>
-_I picked this visualization because it tells the story pretty quickly. The title is very clear, and the map makes it easy to see that we’re looking at dog activity across New York City. I like that it puts dog distribution and dog bites on the same map, so you can roughly see where there are lots of dogs and where people are actually getting bitten.
-I also chose it because it’s not perfect, so there’s something to fix. The blue bite layer looks nice, but there’s no legend and it only shows counts, not bite rates, so it can easily be misunderstood. The green areas and blue circles are stacked on top of each other and start to feel crowded, which makes it hard to compare neighborhoods in detail. That combination—strong first impression, but several things that could be improved—made it a good example for me to critique and redesign._
+
+I picked this visualization because it tells the story pretty quickly. The title is very clear, and the map makes it easy to see that we’re looking at dog activity across New York City. I like that it puts dog distribution and dog bites on the same map, so you can roughly see where there are lots of dogs and where people are actually getting bitten.
+I also chose it because it’s not perfect, so there’s something to fix. The blue bite layer looks nice, but there’s no legend and it only shows counts, not bite rates, so it can easily be misunderstood. The green areas and blue circles are stacked on top of each other and start to feel crowded, which makes it hard to compare neighborhoods in detail. That combination—strong first impression, but several things that could be improved—made it a good example for me to critique and redesign.
 
 ## Step two: the critique
 
