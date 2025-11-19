@@ -121,9 +121,9 @@ Text here...
 |      |     |             |
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
+For the final project, I plan to work mainly with Tableau and a web-based storytelling format. I’ll use Tableau to explore the data, build maps and comparison charts, and create the rent–commute trade-off scatterplot. Once I have a set of visuals that support the story, I’ll place them into a narrative page that the reader can scroll through, so the charts appear at the right moment in the story instead of all at once.
 
-Text here...
+I’ll document my work in my GitHub repository using markdown, and then either set up a project page with GitHub Pages that embeds Tableau Public views, or build a short web story (for example, in a platform like Shorthand) that links back to my portfolio and includes the interactive charts or iframes. The final piece will be a digital, scrollable story rather than a slide deck, and I’ll stay away from PowerPoint and Excel as the main presentation tools. The focus will be on an interactive, web-based experience that matches the tools and examples we’ve been using in class.
 
 ## References
 _List any references you used here._
