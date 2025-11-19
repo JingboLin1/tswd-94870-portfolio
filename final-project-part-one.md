@@ -6,7 +6,7 @@
 ###A Data Story of Rent and Commute Trade-offs
 
 #1. Project Overview
-> Finding a place to live is one of the first big stressors for many CMU students, especially for people who just moved to Pittsburgh and don’t really know the neighborhoods yet. You quickly hear that living near campus in areas like Oakland, Squirrel Hill, or Shadyside is “too expensive,” but choosing a cheaper place farther away usually means more time on the bus, less sleep, and less flexibility in your daily schedule. In reality, students are not just paying rent in dollars — they are also paying in time and energy.
+Finding a place to live is one of the first big stressors for many CMU students, especially for people who just moved to Pittsburgh and don’t really know the neighborhoods yet. You quickly hear that living near campus in areas like Oakland, Squirrel Hill, or Shadyside is “too expensive,” but choosing a cheaper place farther away usually means more time on the bus, less sleep, and less flexibility in your daily schedule. In reality, students are not just paying rent in dollars — they are also paying in time and energy.
 
 In this project, I want to look more closely at the trade-off between rent and commute time for areas around CMU. I plan to compare neighborhoods that are within walking distance to those that are farther out but still popular among students. Using publicly available data on typical rents and commute times, I’ll build a set of visualizations that show how different housing choices affect both a student’s budget and their daily routine. The goal is not to say “everyone should live here,” but to give current and future students a clearer picture of what they gain or give up when they decide to live closer or farther from campus.
 
