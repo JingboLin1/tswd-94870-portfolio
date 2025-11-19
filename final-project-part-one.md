@@ -10,13 +10,96 @@ Finding a place to live is one of the first big stressors for many CMU students,
 
 In this project, I want to look more closely at the trade-off between rent and commute time for areas around CMU. I plan to compare neighborhoods that are within walking distance to those that are farther out but still popular among students. Using publicly available data on typical rents and commute times, I’ll build a set of visualizations that show how different housing choices affect both a student’s budget and their daily routine. The goal is not to say “everyone should live here,” but to give current and future students a clearer picture of what they gain or give up when they decide to live closer or farther from campus.
 
-# Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
- 
-Text here...
+# 2. Project Structure
+This section lays out how I expect the story to unfold from start to finish: set up the housing problem, walk through rent and commute patterns, then pull everything together into a few concrete trade-off scenarios.
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+### 2.1 Introduction: Why Housing Near Campus Feels Unaffordable
 
+- Start by raising the main question: can students realistically afford to live near CMU, and what do we even mean by “near campus”?
+
+- Give a bit of context about CMU’s location and the neighborhoods students talk about the most (Oakland, Squirrel Hill, Shadyside, Bloomfield, etc.).
+
+- Introduce the idea that students are juggling two limits at the same time: a rent budget in dollars, and a “time budget” in minutes spent commuting every day.
+
+Planned visuals:
+
+- A simple locator map showing CMU and the main surrounding neighborhoods, just to orient the reader.
+
+- A short highlighted text box with the core question in one sentence (for example, “Is it worth paying more to live closer to campus?”).
+
+### 2.2 Defining “Near” and “Far”: Distance Bands Around Campus
+
+- Break the area around CMU into a few distance bands (for example: within 1 km, 1–3 km, and more than 3 km).
+
+- Explain that I’ll use these bands later to group neighborhoods or census tracts in the charts.
+
+- Briefly describe how realistic walking, biking, or transit options look in each band (for example, “walkable,” “short bus ride,” “longer commute that depends more on transit”).
+
+Planned visuals:
+
+- A map centered on CMU with shaded rings or bands showing the different distance ranges.
+
+- A few labels or annotations pointing out which neighborhoods fall into each band.
+
+### 2.3 Rent Patterns Around Campus: Where Is It Most Expensive?
+
+- Show median rent by neighborhood, ZIP code, or census tract in areas where students commonly live.
+
+- Compare rent levels across the distance bands, highlighting pockets that are noticeably more expensive or more affordable.
+
+- Use the data to either support or complicate the simple idea that “the closer you live to campus, the more you pay.”
+
+Planned visuals:
+
+- A choropleth map of median rent around CMU, with a clear legend and neighborhood labels.
+
+- A bar chart comparing median rents across a small set of key neighborhoods or across the distance bands.
+
+### 2.4 Commute Time Patterns: What Does It Cost in Minutes?
+
+- Introduce commute time as a second “currency,” alongside rent.
+
+- Show typical travel time to work or school from different neighborhoods or tracts near CMU.
+
+- Highlight how average commute time grows as distance from campus increases, and point out any areas that are “surprisingly close” or “surprisingly far” in terms of time.
+
+Planned visuals:
+
+- A bar or line chart showing average commute time by distance band or neighborhood.
+
+- A supporting map that uses color or symbols to show commute time to campus from different areas.
+
+### 2.5 Trade-offs: Rent vs. Commute in One View
+
+- Put rent and commute time together in a single chart (for example, a scatterplot with commute time on the x-axis and median rent on the y-axis, one point per neighborhood or tract).
+
+- Walk through a few concrete “student scenarios,” such as:
+
+ Living within walking distance, paying more each month, but saving 30–40 minutes per day.
+
+ Living farther out, paying less in rent, but spending much longer on the bus.
+
+ Emphasize that “affordability” is really about the balance between money, time, and daily flexibility, not rent alone.
+
+Planned visuals:
+
+- A scatterplot of rent vs. commute time, with points labeled or color-coded by neighborhood or distance band.
+
+- Text callouts on the chart that guide the reader through two or three example trade-offs.
+
+### 2.6 Conclusion: What Should Students Consider?
+
+- Summarize the main patterns: which areas are the most expensive, which have the longest commutes, and where there seem to be “sweet spots” that balance the two.
+
+- Offer a short list of practical questions students can ask themselves (for example, “If I save $X per month, am I okay with adding Y minutes to my daily commute?”).
+
+- Close by reminding the reader that the project is meant to help them see their options more clearly, not to tell everyone to make the same choice.
+
+Planned visuals:
+
+- A simple summary graphic (such as a small annotated table or diagram) that highlights 2–3 key trade-off insights.
+
+- A final panel inviting students to explore the interactive visualizations and think about how the patterns apply to their own housing decisions.
 Text here...
 
 ## Initial sketches
