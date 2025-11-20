@@ -106,6 +106,8 @@ Text here...
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
 <img src="sketche1.png" width="700"/>
+This sketch shows a simple map centered on CMU, with nearby neighborhoods labeled (for example, Oakland, Squirrel Hill, Shadyside, and Bloomfield). I will highlight popular areas around campus, using deeper colors for places that typically have longer travel times. The goal is to give the reader a quick sense of where these neighborhoods are and how long it usually takes to get from home to campus.
+
 
 # The data
 For this project, I plan to combine nationwide survey data, local indicators, and, if needed, a rental index series to understand both rent levels and commute patterns around CMU.
