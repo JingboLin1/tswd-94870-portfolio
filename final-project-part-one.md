@@ -113,6 +113,7 @@ The second sketch is a map panel that shades neighborhoods or census tracts by t
 > Photo by <a href="https://bestneighborhood.org/rent-cost-pittsburgh-pa/">bestneighborhood</a> on <a href="https://bestneighborhood.org/rent-cost-pittsburgh-pa/">bestneighborhood</a>
 
 
+For commute time, I will sketch a simple bar chart that shows average travel time to work or school for different distance bands or groups of neighborhoods. Each bar represents a different commuting mode. This sketch is mainly to show how the time cost grows as you move farther away.
 
 # The data
 For this project, I plan to combine nationwide survey data, local indicators, and, if needed, a rental index series to understand both rent levels and commute patterns around CMU.
