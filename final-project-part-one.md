@@ -108,17 +108,21 @@ Text here...
 Text here...
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+For this project, I plan to combine nationwide survey data, local indicators, and, if needed, a rental index series to understand both rent levels and commute patterns around CMU.
 
-Text here...
+The main quantitative foundation will come from the American Community Survey (ACS), published by the U.S. Census Bureau. I will use the table B25064: Median Gross Rent (Dollars) to obtain median rent values for renter-occupied housing units at the census tract level in the Pittsburgh area.
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+ These values represent total monthly housing costs for renters and are well suited for comparing typical rent levels across different neighborhoods. I will also use B08303: Travel Time to Work, which reports how long workers take to commute from home to work.
 
-| Name | URL | Description |
-|------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+ By pulling both tables for the same set of tracts, I can align rent and commute time geographically and calculate average travel times for areas at different distances from campus.
+https://data.census.gov/table/ACSDT1Y2022.B08303?utm_source=chatgpt.com
+
+To add more local context about housing conditions, I may incorporate indicators from the Western Pennsylvania Regional Data Center (WPRDC). The WPRDC hosts datasets such as Housing Indicators and other housing-related resources for Pittsburgh and Allegheny County, which summarize things like property values, sales, and voucher usage at the neighborhood or tract level.
+https://data.wprdc.org/dataset/housing-indicators?utm_source=chatgpt.com
+
+For a broader view of how rents in the Pittsburgh metro area have changed over time, I may also reference the Zillow Observed Rent Index (ZORI) from Zillow Research. ZORI is a smoothed measure of typical asking rents across regions such as metros and ZIP codes and is available as downloadable data on the Zillow Research “Housing Data” page.
+https://www.zillow.com/research/data/?utm_source=chatgpt.com
+
 
 # Method and medium
 For the final project, I plan to work mainly with Tableau and a web-based storytelling format. I’ll use Tableau to explore the data, build maps and comparison charts, and create the rent–commute trade-off scatterplot. Once I have a set of visuals that support the story, I’ll place them into a narrative page that the reader can scroll through, so the charts appear at the right moment in the story instead of all at once.
