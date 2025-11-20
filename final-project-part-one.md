@@ -115,6 +115,9 @@ The second sketch is a map panel that shades neighborhoods or census tracts by t
 <img src="sketch3.jpg" width="700"/>
 For commute time, I will sketch a simple bar chart that shows average travel time to work or school for different distance bands or groups of neighborhoods. Each bar represents a different commuting mode. This sketch is mainly to show how the time cost grows as you move farther away.
 
+<img src="sketch4.jpg" width="700"/>
+The core of the story will be a scatterplot that puts rent and commute together. In the sketch, the x-axis is commute time (minutes) and the y-axis is median rent (dollars). Each point roughly represents a neighborhood or tract. I will draw a few points in the “close but expensive,” “far but cheaper,” and “middle ground” areas and circle them as example scenarios.
+
 # The data
 For this project, I plan to combine nationwide survey data, local indicators, and, if needed, a rental index series to understand both rent levels and commute patterns around CMU.
 
