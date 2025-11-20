@@ -112,7 +112,7 @@ This sketch shows a simple map centered on CMU, with nearby neighborhoods labele
 The second sketch is a map panel that shades neighborhoods or census tracts by their median monthly rent. In the sketch, I will block out a legend with light to dark tones and highlight a few areas that look especially expensive or relatively affordable. Next to the map, I plan to leave space for a short paragraph explaining what stands out: for example, whether the highest rents are clustered near campus or spread out more widely.
 > Photo by <a href="https://bestneighborhood.org/rent-cost-pittsburgh-pa/">bestneighborhood</a> on <a href="https://bestneighborhood.org/rent-cost-pittsburgh-pa/">bestneighborhood</a>
 
-
+<img src="sketch3.png" width="700"/>
 For commute time, I will sketch a simple bar chart that shows average travel time to work or school for different distance bands or groups of neighborhoods. Each bar represents a different commuting mode. This sketch is mainly to show how the time cost grows as you move farther away.
 
 # The data
