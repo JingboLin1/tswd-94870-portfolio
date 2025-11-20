@@ -108,6 +108,10 @@ Text here...
 <img src="sketche1.png" width="700"/>
 This sketch shows a simple map centered on CMU, with nearby neighborhoods labeled (for example, Oakland, Squirrel Hill, Shadyside, and Bloomfield). I will highlight popular areas around campus, using deeper colors for places that typically have longer travel times. The goal is to give the reader a quick sense of where these neighborhoods are and how long it usually takes to get from home to campus.
 
+<img src="sketche2.png" width="700"/>
+The second sketch is a map panel that shades neighborhoods or census tracts by their median monthly rent. In the sketch, I will block out a legend with light to dark tones and highlight a few areas that look especially expensive or relatively affordable. Next to the map, I plan to leave space for a short paragraph explaining what stands out: for example, whether the highest rents are clustered near campus or spread out more widely.
+
+
 
 # The data
 For this project, I plan to combine nationwide survey data, local indicators, and, if needed, a rental index series to understand both rent levels and commute patterns around CMU.
