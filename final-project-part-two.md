@@ -1,9 +1,20 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
+# Can Students Afford to Live Near CMU Campus?
+## A Data Story of Rent and Commute Trade-offs
+In Part I, I framed this project around a familiar question for CMU students: can you realistically afford to live near campus, and what are you giving up if you move farther away? Students are paying in two currencies at the same time – monthly rent and minutes spent commuting – and both affect daily life.
 
-Text here!
+For Part II, I am keeping the same core question but making the story more concrete and focused. Instead of talking about “near” and “far” in a vague way, I will use clear distance bands around CMU and tie them to neighborhoods that students actually talk about: North/Central/South Oakland, Shadyside, Squirrel Hill, Bloomfield, and a few other nearby areas that appear often in housing conversations.
+
+The main goal is to help new and future CMU students see how different combinations of rent and commute time play out across these areas. By the end of the story, a reader should be able to answer simple, practical questions such as:
+
+- If I pay more to live within walking distance, how much time am I really saving each day?
+
+- If I move one “ring” farther out, how much might I save on rent, and what kind of commute am I signing up for?
+
+Are there “sweet spots” where rent is not the lowest but the overall trade-off still feels reasonable?
+
+The project is not meant to tell everyone to live in the same place. It is meant to make those trade-offs visible and concrete, instead of relying only on anecdotes like “Oakland is too expensive” or “that neighborhood is way too far on the bus.”
 
 # User research 
 
