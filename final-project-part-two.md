@@ -51,12 +51,17 @@ Text here!
 | The graph size is not appropriate.       | Adjust the graph size in Tableau to make it easier to read.                     |
 | The text is blocking the choropleth map  | Adjust the position and size of the text so that readers can view it more easily.|
 | The colors on the choropleth map are counterintuitive.  |      Right now, green represents the most expensive and red represents the most affordable. Adjust the colors. |
-|                                          |                                                                                 |
+| Do more things with the Ring concept   |   Create a new chart that combines the existing choropleth map with the ring concept I proposed. |
 | ...add more rows as necessary            |                                                                                 |
 
 > ...include any final thoughts you have here. 
 
-Text here!
+- Adjust the graph size in Tableau to make it easier to read.  
+- Adjust the position and size of the text so that readers can view it more easily.
+- Right now, green represents the most expensive and red represents the most affordable. Adjust the colors.
+- Create a new chart that combines the existing choropleth map with the ring concept I proposed.
+- Right now the data only includes studios. I should incorporate one-bedroom and two-bedroom units to create a richer dataset.
+- Create a bar graph using neighborhood/area and rent.
 
 # Moodboards / personas
 The Budget-First Student
@@ -89,7 +94,8 @@ The Balanced Trade-Off Student
 
 - You might explore Ring 2 more deeply, looking for places that sit in that “middle” cluster on the scatterplot.
 
-
+# Link for shorthand
+https://preview.shorthand.com/P8BsEPuoaXlXexmQ
 
 ## References
 _List any references you used here._
