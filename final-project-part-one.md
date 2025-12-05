@@ -126,13 +126,13 @@ The main quantitative foundation will come from the American Community Survey (A
  These values represent total monthly housing costs for renters and are well suited for comparing typical rent levels across different neighborhoods. I will also use B08303: Travel Time to Work, which reports how long workers take to commute from home to work.
 
  By pulling both tables for the same set of tracts, I can align rent and commute time geographically and calculate average travel times for areas at different distances from campus.
-https://data.census.gov/table/ACSDT1Y2022.B08303?utm_source=chatgpt.com
+https://data.census.gov/table/ACSDT1Y2022.B08303?utm
 
 To add more local context about housing conditions, I may incorporate indicators from the Western Pennsylvania Regional Data Center (WPRDC). The WPRDC hosts datasets such as Housing Indicators and other housing-related resources for Pittsburgh and Allegheny County, which summarize things like property values, sales, and voucher usage at the neighborhood or tract level.
-https://data.wprdc.org/dataset/housing-indicators?utm_source=chatgpt.com
+https://data.wprdc.org/dataset/housing-indicators?utm
 
 For a broader view of how rents in the Pittsburgh metro area have changed over time, I may also reference the Zillow Observed Rent Index (ZORI) from Zillow Research. ZORI is a smoothed measure of typical asking rents across regions such as metros and ZIP codes and is available as downloadable data on the Zillow Research “Housing Data” page.
-https://www.zillow.com/research/data/?utm_source=chatgpt.com
+https://www.zillow.com/research/data/?utm
 
 
 # Method and medium
