@@ -3,7 +3,9 @@
 # The final data story
 > Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
 
-Text here!
+In Part 3, I want to help new students coming to CMU quickly figure out which neighborhoods are actually worth looking at. Instead of throwing random rental numbers at them, I focus on two things they care about the most in real life: how long the commute is and how much the rent costs. In this section, I pull together several popular areas where CMU students often live and summarize, for each one, the average monthly rent (mainly for studios) and the typical commute time to campus (mostly by bus, with walking or biking mentioned when it makes sense). By putting all of this in one clear view, the goal is to save readers from bouncing between different websites and doing their own mental math. Ideally, they can glance at the chart and quickly see which neighborhoods are both within their budget and won’t make the daily trip to CMU too exhausting, giving them a solid starting point for their housing search.
+
+Link for ShortHand: https://preview.shorthand.com/P8BsEPuoaXlXexmQ
 
 # Changes made since Part II
 > Include few paragraphs that reflects on changes you made since the completion of Part II. 
