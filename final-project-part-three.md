@@ -17,7 +17,7 @@ The second change is about how I present the information. In Part 2, I only had 
 ## The audience
 > Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
 
-Text here!
+This project is mainly for new CMU students who are trying to find a place to live but don’t really know Pittsburgh yet. They’re usually busy dealing with visas, classes, and paperwork, so they don’t have the time or energy to compare ten different tabs of maps and rental sites. What they really want to know is simple: where can I live that I can afford, and how long will it take me to get to campus every day? The ring idea (Ring 1–3), the choropleth map, and the bar and scatter plots are all there to answer exactly that. The goal is to let them glance at the visuals, quickly see which neighborhoods fit their budget and commute comfort zone, and then pick a few areas to seriously start apartment hunting in.
 
 ## Final design decisions
 > You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
