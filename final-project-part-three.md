@@ -37,6 +37,6 @@ Text here!
 # Final thoughts
 > You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
 
-Text here!
+I ended up with a project I feel much more confident about—and a clearer sense that a good data story should stand on solid data, but still sound like something real people would say to each other.
 
 
